@@ -1,0 +1,16 @@
+
+.container_padre_seccion_principal {
+    display: flex;
+    flex-direction: column;
+}
+
+#resumen_container {
+    display: flex;
+    flex-direction: column;
+} 
+
+/* #estado_tarea_container {
+    display: flex;
+    flex-direction: row;
+
+} */
